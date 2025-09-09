@@ -30,8 +30,8 @@ The primary goal is to create a fair and data-driven credit score that enables G
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Shireenaliza/nova.git
+cd nova
 ```
 
 ### Set up the Environment
